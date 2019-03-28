@@ -55,11 +55,11 @@
 			isa = PBXGroup;
 			children = (
 				4DF477B1224D573300D2DD0D /* AppDelegate.swift */,
+				4DF477C3224D576B00D2DD0D /* GenreButtonScreenViewController.swift */,
 				4DF477B5224D573300D2DD0D /* Main.storyboard */,
 				4DF477B8224D573500D2DD0D /* Assets.xcassets */,
 				4DF477BA224D573500D2DD0D /* LaunchScreen.storyboard */,
 				4DF477BD224D573500D2DD0D /* Info.plist */,
-				4DF477C3224D576B00D2DD0D /* GenreButtonScreenViewController.swift */,
 			);
 			path = plaidlist;
 			sourceTree = "<group>";
